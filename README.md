@@ -5,10 +5,12 @@
 -->
  Hi, I'm Kevser 👋
 
- Biomedical Engineering Student  
- Embedded Systems & Biosensor Enthusiast  
- Signal Processing & Neurotechnology Explorer  
-
+Biomedical Engineering Student  
+TÜSEB Project Scholar  
+Embedded Systems & Biosensor Enthusiast   
+Signal Processing & Neurotechnology Explorer  
+ 
+Currently, I am working as an undergraduate researcher and a TÜSEB Project Scholar, contributing to a research project focused on designing and prototyping flexible strain sensors for biomedical diagnostic applications.
 I build hardware + software systems that combine electronics and biology.
 
 
@@ -22,7 +24,7 @@ I build hardware + software systems that combine electronics and biology.
 - Neurotechnology
 - Biomedical Instrumentation
 
-
+<!--
 
  Featured Projects
 
@@ -34,10 +36,10 @@ Low-cost EEG module + signal filtering + classification experiments.
 
 - (Coming Soon) Electrochemical Biosensor Prototype
 Marker detection using functionalized electrodes.
+-->
 
 
-
-- Currently Learning
+ Currently Learning
 
 - Biomedical Signal Processing
 - Sensor Design
