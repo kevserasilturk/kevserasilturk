@@ -7,6 +7,7 @@
 
 Biomedical Engineering Student  
 TÜSEB Project Scholar  
+Undergraduate Student
 Embedded Systems & Biosensor Enthusiast   
 Signal Processing & Neurotechnology Explorer  
  
