@@ -45,7 +45,6 @@ Marker detection using functionalized electrodes.
 
 - Biomedical Signal Processing
 - Sensor Design
-- Embedded Optimization
 - Hardware-Software Integration
 
 
